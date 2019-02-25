@@ -1,0 +1,9 @@
+START| LESS_TRAVELED, BRIDGE| You are walking through the woods on a snowy evening.  You come to a fork in the road.  Do you a) take the road less-traveled or b) take the road more-traveled?
+
+LESS_TRAVELED|| You are eaten by a bear.  The end.
+
+BRIDGE| SLIPPED, EATEN_BY_TROLL| You walk along the road for a while.  As you come to a bridge, a troll jumps out and demands a gold coin as a toll.  Do you a) pay the troll's toll or b) refuse to pay?
+
+SLIPPED|| The troll happily wanders off with his gold coin, but as you step onto the bridge, your foot slips on the wet wood.  You fall off of the bridge and into the icy water.  The end.
+
+EATEN_BY_TROLL|| The troll eats you.  The end.
